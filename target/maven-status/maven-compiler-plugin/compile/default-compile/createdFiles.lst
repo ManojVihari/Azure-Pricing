@@ -1,0 +1,6 @@
+com\azurepricing\DemoApplication.class
+com\azurepricing\service\AzurePricingService.class
+com\azurepricing\Dao\AzurePricingDao.class
+com\azurepricing\dto\AzurePricingDto.class
+com\azurepricing\model\AzurePricing.class
+com\azurepricing\controller\AzurePricingController.class
